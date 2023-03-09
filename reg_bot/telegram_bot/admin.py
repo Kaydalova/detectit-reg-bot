@@ -30,5 +30,4 @@ class TeamAdmin(admin.ModelAdmin):
         'name',
         'captain',
         'phone',
-        'email',
         'members')
